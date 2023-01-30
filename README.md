@@ -1,3 +1,3 @@
 # threadExample
 
-Try to use thread function to retrieve data
+Use multi-thread to retrieve data
